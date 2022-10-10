@@ -19,9 +19,17 @@
   },
   "homepage": "https://github.com/cesarsgdev/full-stack-template#readme",
   "dependencies": {
+    "@pdf-lib/fontkit": "^1.1.1",
+    "csv-parser": "^3.0.0",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
-    "mongoose": "^6.5.4"
+    "jszip": "^3.10.1",
+    "mongoose": "^6.5.4",
+    "multer": "^1.4.5-lts.1",
+    "pdf-lib": "^1.17.1",
+    "stream": "^0.0.2",
+    "streamifier": "^0.1.1",
+    "uint8-to-base64": "^0.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
